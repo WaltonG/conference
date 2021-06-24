@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cddff4c-1887-4ffe-94bd-a0131e5a99fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/walton/com/walton/service/SpeakerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/walton/com/walton/service/SpeakerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/walton/com/walton/service/SpeakerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/walton/com/walton/service/SpeakerServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +41,20 @@
       <recent name="com.walton.com.walton.service" />
       <recent name="com.walton.repository" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="conference" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

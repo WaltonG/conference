@@ -7,6 +7,7 @@ import com.walton.repository.SpeakerRepository;
 import java.util.List;
 
 public class SpeakerServiceImpl implements SpeakerService {
+
     private SpeakerRepository repository = new HibernateSpeakerRepositoryImpl();
 
     @Override

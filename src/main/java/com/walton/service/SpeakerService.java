@@ -1,4 +1,4 @@
-package com.walton.com.walton.service;
+package com.walton.service;
 
 import com.walton.model.Speaker;
 
